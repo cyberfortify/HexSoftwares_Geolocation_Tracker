@@ -36,7 +36,7 @@ This repository contains the code for the **Geolocation Tracker**, a Python appl
 
 1. Run the Python script:
    ```bash
-   python geolocation_tracker.py
+   python geolocationTracker.py
    ```
 2. When prompted, enter an IP address or leave it blank to use your current IP. The application will retrieve the geolocation data and create a map.
 
